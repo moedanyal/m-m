@@ -94,7 +94,7 @@ margin-top: 1100px;
     max-width: 945px;
     position: relative;
     height: 600px;
-    background-image: url(/images/pinkpetal1.jpg);
+    background-image: url(images/pinkpetal1.jpg);
     background-size: cover;
     background-position: left;
 }
@@ -137,7 +137,7 @@ padding-left: 50px;
      max-width: 945px;
      position: relative;
      height: 600px;
-     background-image: url(/images/pinkheart.jpg);
+     background-image: url(images/pinkheart.jpg);
      background-position: left;
      background-size: cover;
  }
@@ -150,7 +150,7 @@ padding-left: 50px;
     max-width:945px;
      position: relative;
      height: 600px;
-     background-image: url(/images/yellow.jpg);
+     background-image: url(images/yellow.jpg);
      background-size:cover ;
  }
  .dress-code{
