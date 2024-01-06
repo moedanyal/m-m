@@ -7,11 +7,17 @@ body{
     background-color: rgba(227, 208, 217, 0.619);
 }
 .nav{
-margin-top: 200px;
+margin-top: 270px;
 color: rgb(255, 255, 255);
 position: fixed;
 padding: 50px;
 line-height: 50px;
+mix-blend-mode:luminosity ;
+border: 1px solid white ;
+border-left: none;
+border-top: none;
+border-bottom: 1px solid white;
+height: 140px;
 }
 .nav li{
 list-style: none;    
@@ -27,13 +33,13 @@ height: 850px;
 background-attachment: fixed;
 }
 .sub-header{
-/* color: rgb(255, 255, 255); */
 font-size: 30px;
 text-align: center;
-padding: 15px 0 15px 0;
+padding: 15px 15px 15px 15px;
 background-color: rgba(234, 188, 210, 0.398);
 color: rgb(0, 0, 0);
 letter-spacing: 50px;
+font-weight: 800;
 }
 .sub-header .married{
     /* color: rgb(255, 255, 255); */
