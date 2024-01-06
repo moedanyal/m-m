@@ -6,12 +6,21 @@ body{
     background-color: rgba(245, 178, 208, 0.681);
    }
 .nav{
+<<<<<<< HEAD
 margin-top: 420px;
 color: rgb(2, 209, 255);
 position: fixed;
 padding: 50px;
 line-height: 50px;
 mix-blend-mode:difference ;
+=======
+margin-top: 270px;
+color: rgb(255, 255, 255);
+position: fixed;
+padding: 50px;
+line-height: 50px;
+mix-blend-mode:luminosity ;
+>>>>>>> 37a0de705fcce986ac176d275dc5fb3384e0d77f
 border: 1px solid white ;
 border-left: none;
 border-top: none;
@@ -48,6 +57,7 @@ height: 870px;
 background-attachment: fixed;
 } */
 .sub-header{
+<<<<<<< HEAD
 font-size: 30px;
 text-align: center;
 padding: 15px 15px 15px 15px; 
@@ -62,6 +72,15 @@ text-align: center;
 padding: 15px 0 15px 0;
 color: rgb(0, 0, 0);
 letter-spacing: 10px;
+=======
+font-size: 30px;
+text-align: center;
+padding: 15px 15px 15px 15px;
+background-color: rgba(234, 188, 210, 0.398);
+color: rgb(0, 0, 0);
+letter-spacing: 50px;
+font-weight: 800;
+>>>>>>> 37a0de705fcce986ac176d275dc5fb3384e0d77f
 }
 .caps{
 filter: opacity(1);
@@ -101,6 +120,7 @@ z-index: 1;
 margin-top: 400px; 
  }
 .mehndi{
+<<<<<<< HEAD
 display: grid;
 grid-template-columns:  row;
 margin: auto; 
@@ -112,6 +132,18 @@ background-image: url(images/mehndi6.jpg);
 background-size:cover;
 background-position: left;
 color: white;
+=======
+    display: grid;
+   grid-template-columns:  row;
+    margin: auto; 
+    background-color: rgba(227, 208, 217,0.619);
+    max-width: 945px;
+    position: relative;
+    height: 600px;
+    background-image: url(images/pinkpetal1.jpg);
+    background-size: cover;
+    background-position: left;
+>>>>>>> 37a0de705fcce986ac176d275dc5fb3384e0d77f
 }
 .when{
 display: grid;
@@ -141,6 +173,7 @@ margin-top: 250px;
 padding-left: 50px;
 }
 .the-wedding{
+<<<<<<< HEAD
 display: grid;
 grid-template-columns:  row;
 margin: 5px auto; 
@@ -166,6 +199,31 @@ height: 600px;
 background-image: url(images/reception2.jpg);
 background-size:cover ;
 color: white;
+=======
+    
+    display: grid;
+    grid-template-columns:  row;
+     margin: 5px auto; 
+     background-color: rgba(227, 208, 217,0.619);
+     max-width: 945px;
+     position: relative;
+     height: 600px;
+     background-image: url(images/pinkheart.jpg);
+     background-position: left;
+     background-size: cover;
+ }
+ .the-reception{
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns:  row;
+     margin: auto; 
+     background-color: rgba(227, 208, 217,0.619);
+    max-width:945px;
+     position: relative;
+     height: 600px;
+     background-image: url(images/yellow.jpg);
+     background-size:cover ;
+>>>>>>> 37a0de705fcce986ac176d275dc5fb3384e0d77f
  }
 .dress-code{
 margin-top: -25px;
@@ -404,6 +462,11 @@ height: 200px;
       font-size: large;
   }   
 
+<<<<<<< HEAD
   
   }
  }
+=======
+
+}
+>>>>>>> 37a0de705fcce986ac176d275dc5fb3384e0d77f
