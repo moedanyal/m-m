@@ -174,11 +174,16 @@ margin-top: -15px;
 }
 .register-now{
 width: 100%;
-background-color:rgba(255, 214, 234, 0.619); ;  
+color: white;
+font-size: xx-large;
+/* background-color:rgba(255, 214, 234, 0.619);    */
 text-align: center; 
 padding: 15px 0 15px 0;
 margin-top: 18px;
 font-size: larger;
+background-image: url(images/party.jpg);
+background-position: bottom;
+background-size: cover;
 }
 .register{
 border-radius: 30px;
